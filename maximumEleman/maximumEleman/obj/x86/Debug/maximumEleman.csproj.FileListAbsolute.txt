@@ -1,0 +1,4 @@
+C:\Users\Birsen\Desktop\maximumEleman\maximumEleman\bin\Debug\maximumEleman.exe
+C:\Users\Birsen\Desktop\maximumEleman\maximumEleman\bin\Debug\maximumEleman.pdb
+C:\Users\Birsen\Desktop\maximumEleman\maximumEleman\obj\x86\Debug\maximumEleman.exe
+C:\Users\Birsen\Desktop\maximumEleman\maximumEleman\obj\x86\Debug\maximumEleman.pdb

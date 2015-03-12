@@ -1,0 +1,4 @@
+C:\Users\Birsen\Desktop\k.ElemaniBulma\k.ElemaniBulma\bin\Debug\k.ElemaniBulma.exe
+C:\Users\Birsen\Desktop\k.ElemaniBulma\k.ElemaniBulma\bin\Debug\k.ElemaniBulma.pdb
+C:\Users\Birsen\Desktop\k.ElemaniBulma\k.ElemaniBulma\obj\x86\Debug\k.ElemaniBulma.exe
+C:\Users\Birsen\Desktop\k.ElemaniBulma\k.ElemaniBulma\obj\x86\Debug\k.ElemaniBulma.pdb
