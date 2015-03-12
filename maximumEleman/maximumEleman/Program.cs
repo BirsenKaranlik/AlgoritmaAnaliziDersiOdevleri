@@ -35,8 +35,9 @@ namespace maximumEleman
 
             for (int i = 1; i < dizi.Length; i++)
             {
-                if (dizi[i] > maxEleman) maxEleman = dizi[i];
-
+                if (dizi[i] > maxEleman) 
+                { maxEleman = dizi[i];
+                }
             }
             Console.WriteLine("Maximum Eleman:" + maxEleman);
 
