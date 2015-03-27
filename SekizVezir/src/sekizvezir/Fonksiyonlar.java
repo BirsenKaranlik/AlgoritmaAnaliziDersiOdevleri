@@ -52,7 +52,7 @@ if(tahta[i][j]!='1')
 }
     }
     }
-    public void cakismaBul(char[][] tahta) {
+    public void cakismaBul(char tahta[][]) {
         int vezirsayisi = 0;
         int sutun = 0;
         int satir = 0;
