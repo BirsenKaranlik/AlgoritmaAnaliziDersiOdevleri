@@ -53,7 +53,7 @@ if(tahta[i][j]!='1')
     }
     }
     public void cakismaBul(char tahta[][]) {
-        int vezirsayisi = 0;
+        int cakisma = 0;
         int sutun = 0;
         int satir = 0;
 
@@ -68,7 +68,7 @@ if(tahta[i][j]!='1')
                         satir--;
                         sutun--;
                         if (tahta[satir][sutun] == '1') {
-                            vezirsayisi++;
+                            cakisma++;
                         }
 
                     }
@@ -78,7 +78,7 @@ if(tahta[i][j]!='1')
                         satir++;
                         sutun++;
                         if (tahta[satir][sutun] == '1') {
-                            vezirsayisi++;
+                            cakisma++;
                         }
                     }
                     satir = i;
@@ -87,7 +87,7 @@ if(tahta[i][j]!='1')
                         satir++;
                         sutun--;
                         if (tahta[satir][sutun] == '1') {
-                            vezirsayisi++;
+                            cakisma++;
                         }
                     }
                     satir = i;
@@ -96,21 +96,21 @@ if(tahta[i][j]!='1')
                         satir--;
                         sutun++;
                         if (tahta[satir][sutun] == '1') {
-                            vezirsayisi++;
+                            cakisma++;
                         }
                     }
 
                     for (int k = 0; k < 8; k++) {
                        
                         if (tahta[i][j] == tahta[i][k] && j != k) {
-                            vezirsayisi++;
+                            cakisma++;
                         }
                     }
                 }
             }
         }
 
-        System.out.println("Tahta üzerinde çakışan vezir sayisi: " + vezirsayisi);
+        System.out.println("Tahta üzerinde çakışan vezir sayisi: " + cakisma);
     }
   
     
